@@ -8,4 +8,9 @@
 1. gitの構成
 2. gitを始める
 
+扱うもの
+```
+git init, origin, commit, push, reset, rebase, merge, fetch, commit graph, checkout, add, pull, HEAD, cherry-pick, amend
+```
+
 ## 
